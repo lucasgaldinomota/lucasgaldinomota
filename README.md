@@ -46,7 +46,7 @@
 #
 
 ## 💻 Mac Setup 💻
-<a href="https://www.apple.com/macbook-air/"><img height= "40" src= "https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+<a><img height= "40" src= "https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a><img height= "40" src= "https://img.shields.io/badge/RAM-8GB-000000?style=for-the-badge&logoColor=white"></a>
 <a><img height= "40" src= "https://img.shields.io/badge/SSD-256GB-000000?style=for-the-badge&logoColor=white"></a>
 
