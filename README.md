@@ -1,10 +1,10 @@
-# 🖖🏻 Hi! My name is Lucas! 🐺 👾 👺
+# 🖖🏻  Hi! My name is Lucas!  🐺 👾 👺
 
-#### I'm a brazilian Mobile Developer using Flutter most of the time but learning Swift as well. My free time is spent with games, movies, series and animes. I also love taking pictures, but nothing professional. Currently i'm finishing IT college and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager.
+#### I'm a brazilian Mobile Developer using Flutter most of the time but learning Swift as well. My free time is spent with games, movies, series and animes. I also love taking pictures, but nothing professional. Oh yes, I'm a hardware nerd too. Currently i'm finishing IT college and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager.
 
 #
 
-## ⭐️ Some of the Dev technologies I know the most ⭐️
+## ⭐️  Some of the Dev technologies I know the most  ⭐️
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://dart.dev/"><img height= "35" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
@@ -20,7 +20,7 @@
 <a href="https://www.apple.com/ios/"><img height= "35" src= "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
-## 📖 And some of the ones I'm studying or that I know a little less 📖
+## 📖  And some of the ones I'm studying or that I know a little less  📖
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -41,17 +41,17 @@
 
 #
 
-## 📊 My Stats 📊
+## 📊  My Stats  📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgaldinomt&show_icons=true&theme=dark)](https://github.com/lucasgaldinomt/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgaldinomt&layout=compact&theme=dark)](https://github.com/lucasgaldinomt/github-readme-stats)
 
 #
 
-## 💻 Mac Setup 💻
+## 💻  Mac Setup  💻
 <a href="https://www.apple.com/macbook-air/"><img height= "40" src= "https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a href="https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"><img height= "40" src= "https://img.shields.io/badge/KEYCHRON-K2_V2-FF8C00?style=for-the-badge&logoColor=white"></a>
 <a href="https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html"><img height= "40" src= "https://img.shields.io/badge/LOGITECH-MX_Master_3-20B2AA?style=for-the-badge&logoColor=white"></a>
 
-## 🖥 Windows Setup 🖥
+## 🖥  Windows Setup  🖥
 <a href="https://www.intel.com/content/www/us/en/products/sku/126687/intel-core-i58400-processor-9m-cache-up-to-4-00-ghz/specifications.html"><img height= "40" src= "https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
 <a href="https://www.asus.com/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX2060-O6G-GAMING/"><img height= "40" src= "https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 <a href="https://www.hyperxgaming.com/mice/pulsefire-dart-wireless-gaming-mouse"><img height= "40" src= "https://img.shields.io/badge/HYPERX-Puselfire_Dart-FF0000?style=for-the-badge&logoColor=white"></a>
@@ -59,7 +59,7 @@
 
 #
 
-## 👇🏻 You can find me here 👇🏻
+## 👇🏻  You can find me here  👇🏻
 <a href="mailto:lucasgaldino7@gmail.com"><img height="45" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/lucasgaldinomt"><img height="45" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/lucasgaldinomt"><img height="45" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
