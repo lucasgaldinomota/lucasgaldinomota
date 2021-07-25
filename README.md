@@ -44,15 +44,21 @@
 
 #
 
-## ⬇️ My Setups ⬇️
-<a><img height= "40" src= "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+## 💻 Mac Setup 💻
 <a><img height= "40" src= "https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a><img height= "40" src= "https://img.shields.io/badge/RAM-8GB-000000?style=for-the-badge&logoColor=white"></a>
 <a><img height= "40" src= "https://img.shields.io/badge/SSD-256GB-000000?style=for-the-badge&logoColor=white"></a>
 
-<a><img height= "40" src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a><img height= "40" src= "https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a> <a><img height= "40" src= "https://img.shields.io/badge/RAM-16GB-0071C5?style=for-the-badge&logoColor=white"></a>
+<a><img height= "40" src= "https://img.shields.io/badge/KEYCHRON-K2_V2-FF8C00?style=for-the-badge&logoColor=white"></a>
+<a><img height= "40" src= "https://img.shields.io/badge/LOGITECH-MX_Master_3-20B2AA?style=for-the-badge&logoColor=white"></a>
+
+## 🖥 Windows Setup 🖥
+<a><img height= "40" src= "https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+<a><img height= "40" src= "https://img.shields.io/badge/RAM-16GB-0071C5?style=for-the-badge&logoColor=white"></a>
 <a><img height= "40" src= "https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+
+<a><img height= "40" src= "https://img.shields.io/badge/HYPERX-Puselfire_Dart-FF0000?style=for-the-badge&logoColor=white"></a>
+<a><img height= "40" src= "https://img.shields.io/badge/HYPERX-Alloy_Orgins_Core-FF0000?style=for-the-badge&logoColor=white"></a>
 
 #
 
