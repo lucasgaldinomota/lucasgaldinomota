@@ -21,8 +21,8 @@
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
 ## 📖 And some of the ones I'm studying or that I know a little less 📖
-<a href="https://html.spec.whatwg.org/"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://www.markdownguide.org/"><img height= "35" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
