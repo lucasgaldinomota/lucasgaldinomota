@@ -1,6 +1,6 @@
 # 🖖🏻 Hi! My name is Lucas! 🐺 👾 👺
 
-#### I'm a brazilian student focusing on Mobile Development. I'm using Flutter most of the time but learning Swift as well. My free time is spent with games, movies, series and animes. I also love taking pictures, but nothing professional. Currently i'm finishing IT college and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager.
+#### I'm a brazilian Mobile Developer using Flutter most of the time but learning Swift as well. My free time is spent with games, movies, series and animes. I also love taking pictures, but nothing professional. Currently i'm finishing IT college and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager.
 
 #
 
@@ -35,6 +35,7 @@
 <a><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
 <a><img height= "35" src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
 <a><img height= "35" src= "https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"></a>
+<a><img height= "35" src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 <a><img height= "35" src= "https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white"></a>
 
 #
@@ -45,7 +46,7 @@
 #
 
 ## 💻 Mac Setup 💻
-<a><img height= "40" src= "https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+<a href="https://www.apple.com/macbook-air/"><img height= "40" src= "https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a><img height= "40" src= "https://img.shields.io/badge/RAM-8GB-000000?style=for-the-badge&logoColor=white"></a>
 <a><img height= "40" src= "https://img.shields.io/badge/SSD-256GB-000000?style=for-the-badge&logoColor=white"></a>
 
@@ -71,5 +72,5 @@
 #
 
 <p align="center">
-    <img src="https://media1.tenor.com/images/b56338cad8a2193927f54b48fa21cbcb/tenor.gif" width="1000" height="460"/>
+    <img src="https://media1.tenor.com/images/b56338cad8a2193927f54b48fa21cbcb/tenor.gif" width="200%" height="200%"/>
 </p>
