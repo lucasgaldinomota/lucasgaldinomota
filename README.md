@@ -70,5 +70,5 @@
 #
 
 <p align="center">
-    <img src="https://media1.tenor.com/images/b56338cad8a2193927f54b48fa21cbcb/tenor.gif" width="200%" height="200%"/>
+    <img src="https://thumbs.gfycat.com/BrownSorrowfulGerenuk-size_restricted.gif" width="100%" height="100%"/>
 </p>
