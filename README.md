@@ -1,5 +1,5 @@
 <p align="right">
-    <a href="github.com">🇧🇷 Versão em português 🇧🇷</a>
+    <a href="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/README_PTBR.md">🇧🇷 Versão em português 🇧🇷</a>
 </p>
 
 # 🖖🏻  Hi! My name is Lucas!  🐺 👾 👺
@@ -48,7 +48,7 @@ I'm a Brazilian Mobile Developer using Flutter most of the time but learning Swi
 #
 
 <p align="center">
-    <img src="https://thumbs.gfycat.com/BrownSorrowfulGerenuk-size_restricted.gif" width="100%" height="100%"/>
+    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
 </p>
 
 <p align="center">

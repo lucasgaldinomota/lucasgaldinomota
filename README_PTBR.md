@@ -1,7 +1,3 @@
-<p align="right">
-    <a href="github.com">🇺🇸 English version 🇺🇸</a>
-</p>
-
 # 🖖🏻  Oi! Meu nome é Lucas!  🐺 👾 👺
 
 Sou um desenvolvedor mobile brasileiro que utiliza Flutter na maior parte do tempo mas que também está aprendendo Swift. Costumo utilizar meu tempo livre com jogos, filmes, séries e animes. Também gosto muito de tirar fotos, mas nada muito profissional. Ah sim, sou um nerd de hardware também. Atualmente estou graduado com bacharelado no curso de Sistemas de Informação e trabalho na <a href="https://www.cod3r.com.br">Cod3r</a> como desenvolvedor e gerente de time de suporte.
@@ -48,7 +44,7 @@ Sou um desenvolvedor mobile brasileiro que utiliza Flutter na maior parte do tem
 #
 
 <p align="center">
-    <img src="https://thumbs.gfycat.com/BrownSorrowfulGerenuk-size_restricted.gif" width="100%" height="100%"/>
+    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
 </p>
 
 <p align="center">
