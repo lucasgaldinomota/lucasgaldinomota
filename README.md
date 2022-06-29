@@ -1,14 +1,19 @@
+<p align="right">
+    <a href="github.com">🇧🇷 Versão em português 🇧🇷</a>
+</p>
+
 # 🖖🏻  Hi! My name is Lucas!  🐺 👾 👺
 
-#### I'm a brazilian Mobile Developer using Flutter most of the time but learning Swift as well. My free time is spent with games, movies, series and animes. I also love taking pictures, but nothing professional. Oh yes, I'm a hardware nerd too. Currently i'm finishing IT college and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager.
+I'm a Brazilian Mobile Developer using Flutter most of the time but learning Swift as well. My free time is spent with games, movies, series and animes. I also love taking pictures, but nothing professional. Oh yes, I'm a hardware nerd too. Currently I'm graduated with a bachelor's degree in Information Systems course and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager.
 
 #
 
 ## ⭐️  Some of the Dev technologies I know the most  ⭐️
-<a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://dart.dev/"><img height= "35" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
 <a href="https://flutter.dev/"><img height= "35" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+<a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+<a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://reactnative.dev/"><img height= "35" src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -18,7 +23,6 @@
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.android.com/"><img height= "35" src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 <a href="https://www.apple.com/ios/"><img height= "35" src= "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
-<a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
 ## 📖  And some of the ones I'm studying or that I know a little less  📖
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -43,32 +47,14 @@
 
 #
 
-## 📊  My Stats  📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgaldinomt&show_icons=true&theme=dark)](https://github.com/lucasgaldinomt/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgaldinomt&layout=compact&theme=dark)](https://github.com/lucasgaldinomt/github-readme-stats)
-
-#
-
-## 💻  Mac Setup  💻
-<a href="https://www.apple.com/macbook-air/"><img height= "40" src= "https://img.shields.io/badge/Apple-MacBook_Air_M1_2020-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
-<a href="https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard"><img height= "40" src= "https://img.shields.io/badge/KEYCHRON-K2_V2-FF8C00?style=for-the-badge&logoColor=white"></a>
-<a href="https://www.logitech.com/en-us/products/mice/mx-master-3.910-005620.html"><img height= "40" src= "https://img.shields.io/badge/LOGITECH-MX_Master_3-20B2AA?style=for-the-badge&logoColor=white"></a>
-
-## 🖥  Windows Setup  🖥
-<a href="https://www.intel.com/content/www/us/en/products/sku/126687/intel-core-i58400-processor-9m-cache-up-to-4-00-ghz/specifications.html"><img height= "40" src= "https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-<a href="https://www.asus.com/Motherboards-Components/Graphics-Cards/TUF-Gaming/TUF-RTX2060-O6G-GAMING/"><img height= "40" src= "https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-<a href="https://www.hyperxgaming.com/mice/pulsefire-dart-wireless-gaming-mouse"><img height= "40" src= "https://img.shields.io/badge/HYPERX-Puselfire_Dart-FF0000?style=for-the-badge&logoColor=white"></a>
-<a href="https://www.hyperxgaming.com/keyboards/alloy-origins-core-tenkeyless-mechanical-gaming-keyboard"><img height= "40" src= "https://img.shields.io/badge/HYPERX-Alloy_Orgins_Core-FF0000?style=for-the-badge&logoColor=white"></a>
-
-#
-
-## 👇🏻  You can find me here  👇🏻
-<a href="mailto:lucasgaldino7@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/lucasgaldinomt"><img height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lucasgaldinomt"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://discordapp.com/users/262985532798271488"><img height="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-#
-
 <p align="center">
     <img src="https://thumbs.gfycat.com/BrownSorrowfulGerenuk-size_restricted.gif" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+"No cost too great. No mind to think. No will to break. No voice to cry suffering. Born of God and Void. You shall seal the blinding light that plagues their dreams. You are the Vessel. You are the Hollow Knight."
+</p>
+
+<p align="center">
+- Hollow Knight -
 </p>
