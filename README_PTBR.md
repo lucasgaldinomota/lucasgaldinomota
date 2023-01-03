@@ -44,13 +44,13 @@ Sou um desenvolvedor mobile brasileiro que utiliza Flutter na maior parte do tem
 #
 
 <p align="center">
-    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
+    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/zelda_tears_of_the_kingdom.gif" width="100%" height="100%"/>
 </p>
 
 <p align="center">
-"Sem nenhum custo alto. Nenhuma mente para pensar. Nenhuma vontade de se quebrar. Nenhuma voz para chorar o sofrimento. Nascido de Deus e Vazio. Você deve selar a luz ofuscante que assola seus sonhos. Você é o receptáculo. Você é o Cavaleiro Vazio."
+"Abra seus olhos..."
 </p>
 
 <p align="center">
-- Hollow Knight -
+- The Legend of Zelda: Breath of The Wild -
 </p>

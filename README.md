@@ -48,13 +48,13 @@ I'm a Brazilian Mobile Developer using Flutter most of the time but learning Swi
 #
 
 <p align="center">
-    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
+    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/zelda_tears_of_the_kingdom.gif" width="100%" height="100%"/>
 </p>
 
 <p align="center">
-"No cost too great. No mind to think. No will to break. No voice to cry suffering. Born of God and Void. You shall seal the blinding light that plagues their dreams. You are the Vessel. You are the Hollow Knight."
+"Open your eyes..."
 </p>
 
 <p align="center">
-- Hollow Knight -
+- The Legend of Zelda: Breath of The Wild -
 </p>
