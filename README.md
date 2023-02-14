@@ -50,11 +50,3 @@ I'm a Brazilian Mobile Developer using Flutter most of the time but learning Swi
 <p align="center">
     <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/zelda_tears_of_the_kingdom.gif" width="100%" height="100%"/>
 </p>
-
-<p align="center">
-"Open your eyes..."
-</p>
-
-<p align="center">
-- The Legend of Zelda: Breath of The Wild -
-</p>
