@@ -44,5 +44,5 @@ Sou um desenvolvedor mobile brasileiro que utiliza Flutter na maior parte do tem
 #
 
 <p align="center">
-    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/zelda_tears_of_the_kingdom.gif" width="100%" height="100%"/>
+    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/zelda_tears_of_the_kingdom_2.gif" width="100%" height="100%"/>
 </p>
