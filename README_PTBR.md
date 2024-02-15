@@ -1,7 +1,6 @@
 # 🖖🏻  Oi! Meu nome é Lucas!  🐺 👾 👺
 
-Sou um desenvolvedor mobile brasileiro que utiliza Flutter na maior parte do tempo mas que também está aprendendo Swift. Costumo utilizar meu tempo livre com jogos, filmes, séries e animes. Também gosto muito de tirar fotos, mas nada muito profissional. Ah sim, sou um nerd de hardware também. Atualmente estou graduado com bacharelado no curso de Sistemas de Informação e trabalho na <a href="https://www.cod3r.com.br">Cod3r</a> como desenvolvedor e gerente de time de suporte.
-
+Sou um desenvolvedor brasileiro graduado com bacharelado em Sistemas de Informação pela <a href="https://www.uni7.edu.br/">UNI7</a>, cursando pós-graduação em Especialização em Segurança Cibernética com foco em DevOPS pela <a href="https://unifor.br/">Unifor</a> e trabalho na <a href="https://www.cod3r.com.br">Cod3r</a> como desenvolvedor e gerente de time de suporte. Meu maior hobby são jogos, principalmente no PC e também sou um nerd de hardware.
 #
 
 ## ⭐️  Tecnologias que conheço mais  ⭐️
