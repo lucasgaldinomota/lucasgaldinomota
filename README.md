@@ -4,7 +4,7 @@
 
 # 🖖🏻  Hi! My name is Lucas!  🐺 👾 👺
 
-I'm a Brazilian Mobile Developer graduated with a bachelor's degree in Information Systems from <a href="https://www.uni7.edu.br/">UNI7</a>, studying postgraduate degree in Cybersecurity by <a href="https://unifor.br/">Unifor</a> and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager. My biggest hobby is gaming, especially on PC and I'm also a hardware nerd.
+I'm a Brazilian Developer graduated with a bachelor's degree in Information Systems from <a href="https://www.uni7.edu.br/">UNI7</a>, studying postgraduate degree in Cybersecurity by <a href="https://unifor.br/">Unifor</a> and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager. My biggest hobby is gaming, especially on PC and I'm also a hardware nerd.
 #
 
 ## ⭐️  Some of the Dev technologies I know the most  ⭐️
