@@ -2,7 +2,7 @@
     <a href="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/README_PTBR.md">🇧🇷 Versão em português 🇧🇷</a>
 </p>
 
-# 🖖🏻  Hi! My name is Lucas!  🐺 👾 👺
+# Hi! My name is Lucas!  🐺
 
 I'm a Brazilian Developer graduated with a bachelor's degree in Information Systems from <a href="https://www.uni7.edu.br/">UNI7</a>, studying postgraduate degree in Cybersecurity by <a href="https://unifor.br/">Unifor</a> and working at <a href="https://www.cod3r.com.br">Cod3r</a> as a software developer and support team manager. My biggest hobby is gaming and I'm also a hardware nerd.
 #
